@@ -24,7 +24,7 @@ under the License.
 	<groupId>myaxis</groupId>
 	<artifactId>icicic</artifactId>
 	<version>v2</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>Flink Walkthrough DataStram Scala</name>
 	<url>https://flink.apache.org</url>
